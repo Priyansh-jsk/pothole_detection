@@ -18,8 +18,3 @@ pip install -r requirements.txt
 
 
 
-## Example Results
-![Example Results](https://github.com/noorkhokhar99/pothole-detection/blob/main/result1.jpg)
-
-
-
