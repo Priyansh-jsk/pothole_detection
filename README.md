@@ -2,13 +2,6 @@
 Pothole detection from real time video stream or images with Python.
 
 YoloV4-Tiny and OpenCV used for this project.
-- Clone the repository.
-```
-git clone https://github.com/noorkhokhar99/pothole-detection.git
-```
-- Goto the cloned folder.
-```
-cd pothole-detection
 
 ```
 - Upgrade pip with mentioned command below.
